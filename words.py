@@ -1,3 +1,4 @@
+#Words that are used in the game
 word_list = [
     'wares',
     'soup',
